@@ -1,5 +1,5 @@
 INSTANCE:
-Instances Download from: https://optimizizer.com/jobshop.php
+Classical instances: https://optimizizer.com/jobshop.php
 New instances: https://github.com/MINGJIE666/JSP
 
 ALGORITHM:
